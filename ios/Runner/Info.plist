@@ -14,6 +14,8 @@
 	<string>try_experts_app</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleIcons</key>
+    <string>Icon-App@3x</string>
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
@@ -41,16 +43,5 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-<key>CFBundleIcons</key>
-<dict>
-    <key>CFBundleAlternateIcons</key>
-    <dict>
-     <key>CFBundleIconFiles</key>
-        <string>Icon-App@3x</string>
-     <key>CFBundleIconFiles</key>
-    <dict>
-    <key>CFBundleAlternateIcons</key>
- <dict>
-<key>CFBundleIcons</key>
 </dict>
 </plist>
