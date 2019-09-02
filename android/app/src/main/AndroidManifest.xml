@@ -9,7 +9,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="try_experts_app"
-        android:icon="@drawable/app_logo_3">
+        android:icon="@drawable/app_logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
