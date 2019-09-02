@@ -9,7 +9,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="try_experts_app"
-        android:icon="@drawable/app_logo">
+        android:icon="@drawable/app_logo_3">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
@@ -21,9 +21,9 @@
                  until Flutter renders its first frame. It can be removed if
                  there is no splash screen (such as the default splash screen
                  defined in @style/LaunchTheme). -->
-            <meta-data
-                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-                android:value="true" />
+            <!--<meta-data-->
+                <!--android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"-->
+                <!--android:value="true" />-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
