@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
 //        ],
       ),
 //      url: 'https://www.google.com',
-      url: 'https://www.tryexperts.com/QA',
+      url: 'https://www.tryexperts.com/',
       initialChild: Center(
         child: CircularProgressIndicator(),
       ),
